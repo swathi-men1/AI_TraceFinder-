@@ -8,4 +8,4 @@
 
 4. Push your changes to your forked repository or upload your work manually.
 
-5. Update your repository at every milestone to reflect your progress.
+5. Update your repository at every milestone to reflect your progress. 
