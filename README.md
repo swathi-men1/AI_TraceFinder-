@@ -6,6 +6,6 @@
 
 3. Make regular and meaningful commits for every milestone.
 
-4. Push your changes to your forked repository or upload your work manually.
+4. Push your changes to your forked repository or upload your work manually. 
 
 5. Update your repository at every milestone to reflect your progress. 
